@@ -124,3 +124,7 @@ Unified Modelling Language - a visual design language encompassing many differen
 
 verification - confirming that the software solution meets the requirements
 
+
+## Object-Oriented Modeling
+
+OOM refers to the idea of converting things around you to objects such as your room, and then converting things inside the room to other objects. This helps when we try to solve a probelm and tranforms it to  a real word objects in order to model it in code easily. 
