@@ -128,3 +128,7 @@ verification - confirming that the software solution meets the requirements
 ## Object-Oriented Modeling
 
 OOM refers to the idea of converting things around you to objects such as your room, and then converting things inside the room to other objects. This helps when we try to solve a probelm and tranforms it to  a real word objects in order to model it in code easily. 
+
+## Software Designer
+
+A software desginer must lay down the specifics about the poject. They have to ask all possible questions that might come up during devs. Re-iterate the process with the client until they get everything clearly. 
