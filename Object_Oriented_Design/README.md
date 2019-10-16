@@ -142,3 +142,13 @@ Software Quality can measure three things.
 2- Conveience 
 
 3- Performance 
+
+4- Scailibity 
+
+5- Usability
+
+6- Code qulaity 
+
+7- Deadline
+
+The software Architect is the one who can measure software quality. 
