@@ -132,3 +132,13 @@ OOM refers to the idea of converting things around you to objects such as your r
 ## Software Designer
 
 A software desginer must lay down the specifics about the poject. They have to ask all possible questions that might come up during devs. Re-iterate the process with the client until they get everything clearly. 
+
+## Qulaity
+
+Software Quality can measure three things.
+
+1- Security
+
+2- Conveience 
+
+3- Performance 
