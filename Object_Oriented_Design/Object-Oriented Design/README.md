@@ -22,6 +22,6 @@
 
 ## UML
 
-- State Diagram
+- State Diagram: Shows how system interact with its components in response to events.
 
-- Sequence Digram is pretty cool thing to do to organize your program. 
+- Sequence Digram is pretty cool thing to do to organize your program.
