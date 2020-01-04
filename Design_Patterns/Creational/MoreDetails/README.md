@@ -20,7 +20,9 @@ We are going to study them with case studies.
 We are going to stat with using the builder pattern.
 
 
-- Builder pattern: It a way to improve complex constructors that take many params.
+## Builder pattern:
+
+The builder pattern is a way to improve complex constructors that take many params.
 
 For example, when we have a constructor that take many params.
 
