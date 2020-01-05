@@ -10,10 +10,14 @@ package bedroombuilderpattern;
  * @author aaa
  */
 public class BedroomBuilderPattern {
-
-    /**
-     * @param args the command line arguments
-     */
+    private Dimension dimension ; 
+    private int ceilingHeight ; 
+    private int flooeNumber ; 
+    private Color wallColor; 
+    private int numberOfWindows ; 
+    private int numberOfDoors ; 
+    // Bulder 
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
