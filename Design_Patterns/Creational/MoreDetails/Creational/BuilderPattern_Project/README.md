@@ -20,6 +20,10 @@ We are going to study them with case studies.
 We are going to stat with using the builder pattern.
 
 
+## Abstract Factory
+
+
+
 ## Builder pattern:
 
 The builder pattern is a way to improve complex constructors that take many params.
@@ -33,3 +37,13 @@ Example code:
 
 
 ```
+
+## Abstract Method
+
+
+
+## Prototype pattern
+
+
+
+## Singleton pattern   
