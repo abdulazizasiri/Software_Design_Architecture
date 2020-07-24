@@ -44,7 +44,7 @@ What is a DNS query: A special request that goes to a server which asks for the 
 
 The client has to specify what ports to listen to.
 
-Analogy: Ports are apartmetns number, IP address is the mailbox
+Analogy: Ports are apartment number, IP address is the mailbox
 
 
-### Network Protocols. 
+### Network Protocols.
