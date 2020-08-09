@@ -1,2 +1,0 @@
-# MVC (Model View Controller). 
-
