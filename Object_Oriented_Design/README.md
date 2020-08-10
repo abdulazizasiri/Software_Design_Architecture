@@ -220,3 +220,27 @@ Conceptual design: What are some potential components to be included in the CD?
 2- Course
 
 3- Search page -> has a responsibility to search for courses.
+
+### Competing Qualities and Trade-offs.
+
+- Satisfying requirements
+
+Some software design decision will involve tradeoffs in different quality attributes, such as performance, convenience, and security.
+
+
+There are many qualities in a software. We need to balance them out to make them more usable.
+
+#### Functional Requirement
+
+For Software, there are functional requirements that describes what the system or application is expected to do.
+
+
+We need to work with payment securely.
+
+
+- CRC card. Class responsibility collaborator.
+
+
+Example ATM machine.
+
+CLASS NAME 
